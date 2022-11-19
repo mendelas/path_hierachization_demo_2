@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1011536128896",
+    "project_id": "path-hierachization-2",
+    "storage_bucket": "path-hierachization-2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1011536128896:android:6662e6b58c57958c8f2f65",
+        "android_client_info": {
+          "package_name": "ikainvoler.app.com.path_hierachization_demo_2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1011536128896-05i678nuos34incb9tuek94t9pe4s4f3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCXXouqNDxOeyAeEAT_q7rIsZyiust6rw4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1011536128896-05i678nuos34incb9tuek94t9pe4s4f3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
